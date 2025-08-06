@@ -79,9 +79,3 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=aitorfirm.aitorfirm&"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/aitorfirm/aitorfirm/output/snake.svg" alt="Snake animation" />
-
-###
